@@ -17,7 +17,7 @@ appears on your GitHub profile.
 * 👯 I’m looking to collaborate on: **Backend / Open Source Projects**
 * 🤔 I’m looking for help with: **Building scalable and production-ready systems**
 * 💬 Ask me about: **Backend Development, Technology & Football ⚽**
-* 📫 How to reach me: **[sontrinh03012004@gmail.com](mailto:sontrinh03012004@gmail.com)**
+* 📫 How to reach me: **[sonkoi46fa@gmail.com](mailto:sonkoi46fa@gmail.com)**
 * 🎓 I’m an **Information Technology Student** seeking **Backend Internship opportunities**
 
 ---
